@@ -11,37 +11,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - ReleaseDate
 
-## [0.1.1] - 2023-05-06
+## [0.0.1] - 2024-09-11
 
-### Added
+<!-- ### Added -->
 
-- New features go here in a bullet list
+<!-- - New features go here in a bullet list -->
 
 ### Changed
 
-- Changes to existing functionality go here in a bullet list
+- Changes to replace all related to docusaurus to be related to rolasnajera site.
 
-### Deprecated
+<!-- ### Deprecated -->
 
-- Mark features soon-to-be removed in a bullet list
+<!-- - Mark features soon-to-be removed in a bullet list -->
 
-### Removed
+<!-- ### Removed -->
 
-- Features that have been removed in a bullet list
+<!-- - Features that have been removed in a bullet list -->
 
-### Fixed
+<!-- ### Fixed -->
 
-- Bug fixes in a bullet list
+<!-- - Bug fixes in a bullet list -->
 
-### Security
+<!-- ### Security -->
 
-- Changes/fixes related to security vulnerabilities in a bullet list
-
-## [0.1.0] - 2023-05-05
-
-### Added
-
-- Initial add of the thing
+<!-- - Changes/fixes related to security vulnerabilities in a bullet list -->
 
 <!-- next-url -->
 

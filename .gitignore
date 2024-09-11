@@ -42,6 +42,7 @@ Temporary Items
 **/*.rs.bk
 Cargo.lock
 
+# Ignoring files related to docusaurus
 # Dependencies
 /node_modules
 
