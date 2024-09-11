@@ -8,11 +8,11 @@
 
 <!--- FIXME: Pick an emoji and name your project! --->
 
-# `💻 rolasnajera public repository template`
+# `💻 rolasnajera.dev is my personal website about software developemnt`
 
 <!--- FIXME: Write short catchy description/tagline of project --->
 
-**Template for creating new public repository in rolasnajera organization that follow the rolasnajera open source guidelines**
+**This open source project is intended to share all about my career on software development path. Publicly**
 
 <!--- FIXME: Update crate, repo and CI workflow names here! Remove any that are not relevant --->
 
