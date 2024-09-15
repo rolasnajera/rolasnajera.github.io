@@ -64,7 +64,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.png',
+    image: 'img/socialCard.png',
     navbar: {
       title: 'Rolas Najera',
       logo: {
