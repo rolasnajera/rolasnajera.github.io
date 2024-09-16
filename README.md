@@ -11,7 +11,7 @@
 **This open-source project is intended to share all about my career in software development path. Publicly**
 
 [![rolasnajera](https://img.shields.io/badge/website-open%20source-blueviolet.svg)](https://rolasnajera.dev)
-[![Discord](https://img.shields.io/discord/991121585790517339)](https://discord.gg/YGjPsKcs)
+[![Discord](https://img.shields.io/discord/991121585790517339)](https://discord.gg/qCFQYvbMva)
 [![Git Docs](https://img.shields.io/badge/git%20main%20docs-published-blue)](https://rolasnajera.dev)
 </div>
 
