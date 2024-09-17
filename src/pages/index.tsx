@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Head from '@docusaurus/Head';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
@@ -35,6 +36,13 @@ export default function Home(): JSX.Element {
       title={`Welcome to ${siteConfig.title}`}
       description="Sr Software Engineer who always is looking for personal and professional growth.
         I'm convinced the world needs more better-prepared software engineers but also, better people.">
+      <Head>
+        <meta property="og:title" content="Rolas Najera Dev website" />
+        <meta
+          property="og:description"
+          content="You can learn and share about software with me, and create community."
+        />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
