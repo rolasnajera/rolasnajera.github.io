@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/rolasnajera/rolasnajera.github.io',
+            'https://github.com/rolasnajera/rolasnajera.github.io/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/rolasnajera/rolasnajera.github.io',
+            'https://github.com/rolasnajera/rolasnajera.github.io/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -135,6 +135,14 @@ const config: Config = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Rolas Najera. Built with Docusaurus.`,
+    },
+    algolia: {
+      appId: 'ZGAMIHYFGF',
+      apiKey: '7af360ab233d81d15d810239702b5f80',
+      indexName: 'rolasnajera',
+      contextualSearch: true,
+      searchParameters: {},
+      searchPagePath: 'search',
     },
     prism: {
       theme: prismThemes.github,
